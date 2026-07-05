@@ -1,0 +1,5 @@
+1. python3 -m venv /opt/venv
+2. source /opt/venv/bin/activate
+3. cd streamlink
+4. pip install .
+5. /opt/venv/bin/stramlink --version
