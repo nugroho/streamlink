@@ -1,0 +1,3 @@
+default-stream=160p,160p30
+player=mplayer
+verbose-player
