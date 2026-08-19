@@ -1,3 +1,4 @@
 1. mpv https://twitch.tv/username
 2. mpv --ytdl-format=worst https://twitch.tv/username
 3. mpv --ytdl-format=360p  https://twitch.tv/username 
+4. yt-dlp --list-formats   https://twitch.tv/username
