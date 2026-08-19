@@ -1,0 +1,5 @@
+1. streamlink --stream-url twitch.tv/username
+2. ffmpeg -i url.m3u8 -f matroska - | mplayer -geometry +0+0 -
+
+
+mplayer -playlist url.m2u8
